@@ -1,0 +1,2 @@
+"0","theta_0 = c(50, 80, 30, 30, 0.4)"
+"0","theta_k<- em_gmm(theta0 = theta_0,  y = faithful$waiting, max_iter = 2)$solution"

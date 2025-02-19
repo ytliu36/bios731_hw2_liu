@@ -1,0 +1,4 @@
+"0","# source SEM_GMM.R"
+"0","source(""/Users/yutong/Documents/Classes/2025 Spring/BIOS 731/Feb12/SEM_GMM.R"")"
+"0",""
+"0","results = em_gmm(theta0 = c(50, 80, 1, 1, 0.5),  y = faithful$waiting)"
