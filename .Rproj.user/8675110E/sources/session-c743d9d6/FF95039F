@@ -3,7 +3,7 @@
     "path": "~/Documents/Classes/2025 Spring/BIOS 731/bios731_hw2_liu/HW2_optimization.Rmd",
     "project_path": "HW2_optimization.Rmd",
     "type": "r_markdown",
-    "hash": "383340669",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1739372783053.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "294,3",
-        "scrollLine": "285"
+        "cursorPosition": "286,0",
+        "scrollLine": "272"
     },
     "folds": "",
-    "lastKnownWriteTime": 1739934630,
+    "lastKnownWriteTime": 1739935368,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1739934694125,
+    "last_content_update": 1739935368403,
     "read_only": false,
     "read_only_alternatives": []
 }
